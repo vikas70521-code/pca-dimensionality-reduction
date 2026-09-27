@@ -65,7 +65,7 @@ The project also demonstrates how Scikit-learn's `Pipeline` can combine preproce
 * Pandas
 * Matplotlib
 * Scikit-learn
-* Jupyter Notebook / Google Colab
+* Google Colab
 
 ## Project Structure
 
